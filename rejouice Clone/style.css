@@ -385,7 +385,11 @@ hr{
 /* Responsive */
 @media (max-width:400px) {
     .main{
-        width: 100dvw;
+        width: 100%;
+    }
+    .page1{
+        width: 100%;
+        height: 100dvh;
     }
     .page2{
         height: 30vh;
